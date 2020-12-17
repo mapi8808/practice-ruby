@@ -13,3 +13,6 @@ puts webcamp
 name = "A"
 weight = 50 
 puts "#{name}さんの体重は#{weight}です"
+
+tall = {:太郎=>185, :二郎=>170, :花子=>150}
+puts tall[:太郎]
