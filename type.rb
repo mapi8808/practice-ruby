@@ -4,7 +4,8 @@ puts 100 + "200".to_i
 
 puts "WEBCAMPでプログラミング学習".include?("WEBCAMP")
 
-puts "webcamp".upcase
+names = ["Git", "HTML", "CSS"]
+puts names[0]
 
 webcamp = "プログラミング学習"
 puts webcamp
