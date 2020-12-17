@@ -8,3 +8,7 @@ puts "webcamp".upcase
 
 webcamp = "プログラミング学習"
 puts webcamp
+
+name = "A"
+weight = 50 
+puts "#{name}さんの体重は#{weight}です"
